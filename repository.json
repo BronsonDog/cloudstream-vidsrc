@@ -1,11 +1,8 @@
 {
   "name": "BronsonDog's Cloudstream Repo",
-  "url": "https://github.com/BronsonDog/cloudstream-net20",
+  "url": "https://raw.githubusercontent.com/BronsonDog/cloudstream-vidsrc/refs/heads/main/repository.json",
   "description": "Net20.cc provider for Cloudstream (TMDB auto-load, free embeds)",
-  "providers": [
-    {
-      "name": "Net20",
-      "path": "providers/Net20Provider.kt"
-    }
+  "pluginLists": [
+      "https://raw.githubusercontent.com/BronsonDog/cloudstream-vidsrc/refs/heads/main/repository.json"
   ]
 }
