@@ -1,7 +1,7 @@
 {
   "name": "BronsonDog's Cloudstream Repo",
   "url": "https://raw.githubusercontent.com/BronsonDog/cloudstream-vidsrc/refs/heads/main/repository.json",
-  "description": "Net20.cc provider for Cloudstream (TMDB auto-load, free embeds)",
+  "description": "Provider for Cloudstream (TMDB auto-load, free embeds)",
   "pluginLists": [
       "https://raw.githubusercontent.com/BronsonDog/cloudstream-vidsrc/refs/heads/main/repository.json"
   ]
